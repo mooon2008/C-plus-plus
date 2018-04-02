@@ -1,0 +1,15 @@
+﻿Build started 4/25/2017 1:57:45 PM.
+     1>Project "C:\Users\aadh3\Abdullah-GoogleDrive\classes\2017\spring\CS1- C++\Dr.Gus class\HW16- Alajaj\HW16- Alajaj\HW16- Alajaj.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "SourceHW16 - Alajaj.cpp"
+         SourceHW16 - Alajaj.cpp
+     1>c:\users\aadh3\abdullah-googledrive\classes\2017\spring\cs1- c++\dr.gus class\hw16- alajaj\hw16- alajaj\sourcehw16 - alajaj.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\aadh3\abdullah-googledrive\classes\2017\spring\cs1- c++\dr.gus class\hw16- alajaj\hw16- alajaj\sourcehw16 - alajaj.cpp(19): warning C4101: 'temp' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\aadh3\Abdullah-GoogleDrive\classes\2017\spring\CS1- C++\Dr.Gus class\HW16- Alajaj\Debug\HW16- Alajaj.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\aadh3\Abdullah-GoogleDrive\classes\2017\spring\CS1- C++\Dr.Gus class\HW16- Alajaj\Debug\HW16- Alajaj.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\aadh3\Abdullah-GoogleDrive\classes\2017\spring\CS1- C++\Dr.Gus class\HW16- Alajaj\Debug\HW16- Alajaj.lib" /MACHINE:X86 "Debug\SourceHW16 - Alajaj.obj"
+         HW16- Alajaj.vcxproj -> C:\Users\aadh3\Abdullah-GoogleDrive\classes\2017\spring\CS1- C++\Dr.Gus class\HW16- Alajaj\Debug\HW16- Alajaj.exe
+     1>Done Building Project "C:\Users\aadh3\Abdullah-GoogleDrive\classes\2017\spring\CS1- C++\Dr.Gus class\HW16- Alajaj\HW16- Alajaj\HW16- Alajaj.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.49
